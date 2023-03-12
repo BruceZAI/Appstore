@@ -1,7 +1,7 @@
 elasticsearch:
-  address: "http://34.102.43.194:9200"
-  username: "brucezai97"
-  password: "z19971015"
+  address: ""
+  username: ""
+  password: ""
 
 gcs:
   bucket: "brucezai-appstore"
