@@ -1,4 +1,4 @@
-const domain = "https://spatial-acumen-378218.wl.r.appspot.com";
+const domain = "";
 
 const handleResponseStatus = (response, errMsg) => {
   const { status, ok } = response;
